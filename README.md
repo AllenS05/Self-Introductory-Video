@@ -1,2 +1,2 @@
 ## 🎥 Self Introduction Video
-[Click here to watch my introduction](your-video-file.mp4)
+[Click here to watch my introduction](self_inro_video.mp4)
